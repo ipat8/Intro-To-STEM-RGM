@@ -4,5 +4,5 @@ systemctl enable rgm.service
 
 curl https://raw.githubusercontent.com/ipat8/Intro-To-STEM-RGM/master/rgm.py -o /etc/poly/rgm.py
 curl https://raw.githubusercontent.com/ipat8/Intro-To-STEM-RGM/master/rgm.sh -o /etc/poly/rgm.sh
-curl https://raw.githubusercontent.com/ipat8/Intro-To-STEM-RGM/blob/sss.mp3 -o /etc/poly/sss.mp3
+curl https://raw.githubusercontent.com/ipat8/Intro-To-STEM-RGM/master/sss.mp3 -o /etc/poly/sss.mp3
 chmod +x /etc/poly/rgm.sh
