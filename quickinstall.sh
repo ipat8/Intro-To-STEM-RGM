@@ -9,7 +9,7 @@ sleep 3
 curl https://raw.githubusercontent.com/ipat8/Intro-To-STEM-RGM/master/complete.sh -o /etc/poly/complete.sh
 sleep 3
 curl https://raw.githubusercontent.com/ipat8/Intro-To-STEM-RGM/master/sss.mp3 -o /etc/poly/sss.mp3
-sleep 3
+curl https://raw.githubusercontent.com/ipat8/Intro-To-STEM-RGM/master/theend.mp4 -o /etc/poly/theend.mp4
 chmod +x /etc/poly/rgm.sh
 chmod +x /etc/poly/complete.sh
 

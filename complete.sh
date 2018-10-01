@@ -1,2 +1,2 @@
 #!/bin/bash
-omxplayer --no-keys -o hdmi /etc/poly/sss.mp3
+omxplayer --no-keys -o hdmi /etc/poly/theend.mp4
